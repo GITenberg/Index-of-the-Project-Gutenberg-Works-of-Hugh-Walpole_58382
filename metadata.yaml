@@ -1,0 +1,29 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Hugh-Walpole_58382
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walpole, Hugh
+    alias: Walpole, Sir Hugh
+    birthdate: 1884
+    deathdate: 1941
+    gutenberg_agent_id: '1207'
+    url: http://www.gutenberg.org/2009/agents/1207
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Walpole
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2018-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of Hugh Walpole
+url: http://www.gutenberg.org/ebooks/58382
